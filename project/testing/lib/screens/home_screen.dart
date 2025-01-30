@@ -21,7 +21,7 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(
         // automaticallyImplyLeading: false,
         backgroundColor: Hexcolor.deepPurple,
-        title: Text('Personal Expenses'),
+        title: Text('Personal Expenses Tracker'),
       ),
       drawer: MenuButton(),
       backgroundColor: Colors.white,
